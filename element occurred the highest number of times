@@ -1,0 +1,21 @@
+public class TwoDimDemo {
+public static void main(String[] args) {
+
+int [][] X = new int[3][];
+
+x[o] = new int[3];
+
+x[1] = new int[2];
+
+x[2] = new int[5];
+
+for(int i=0; i < x.length; i++) {
+
+for(intj=o;j < x[i].1ength; j++) { 
+    
+    x[i][j] = i; system.out.print(x[i][j]);
+}
+system.out.println();
+}
+}
+}
